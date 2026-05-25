@@ -1,8 +1,6 @@
-# Openterface_hk
+# openterface_hk
 
-Traditional Chinese (Hong Kong) marketing site for Openterface — Astro 6 + Tailwind 4. Deploys to **hk.openterface.com**.
-
-Forked from [`openterface_en`](https://github.com/TechxArtisanStudio/openterface_en). Locale scaffold in progress.
+English marketing site for Openterface — Astro 6 + Tailwind 4. Deploys to **hk.openterface.com**.
 
 ## Quick start
 
